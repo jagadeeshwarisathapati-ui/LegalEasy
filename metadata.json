@@ -1,0 +1,6 @@
+{
+  "name": "LegalEasy - Understand Before You Sign",
+  "description": "Milestone landing page for LegalEasy, empowering students, internship applicants, and first-time employees to understand complex legal agreements before signing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
